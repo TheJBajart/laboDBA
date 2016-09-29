@@ -1,0 +1,10 @@
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\labo2ETFramework.exe.config
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\labo2ETFramework.exe
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\labo2ETFramework.pdb
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\EntityFramework.dll
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\EntityFramework.xml
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\obj\Debug\labo2ETFramework.csprojResolveAssemblyReference.cache
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\obj\Debug\labo2ETFramework.exe
+c:\Users\Jérôme\documents\visual studio 2015\Projects\Labo1BDA\labo2ETFramework\obj\Debug\labo2ETFramework.pdb

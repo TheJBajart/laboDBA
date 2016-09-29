@@ -1,0 +1,6 @@
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\bin\Debug\Labo1BDA.exe.config
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\bin\Debug\Labo1BDA.exe
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\bin\Debug\Labo1BDA.pdb
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\obj\Debug\Labo1BDA.csprojResolveAssemblyReference.cache
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\obj\Debug\Labo1BDA.exe
+c:\users\jérôme\documents\visual studio 2015\Projects\Labo1BDA\Labo1BDA\obj\Debug\Labo1BDA.pdb
